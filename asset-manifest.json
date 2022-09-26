@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Question-Answer-ReactJS/static/css/main.e09c505d.css",
+    "main.js": "/Question-Answer-ReactJS/static/js/main.ec305de7.js",
+    "static/js/787.79f9a009.chunk.js": "/Question-Answer-ReactJS/static/js/787.79f9a009.chunk.js",
+    "index.html": "/Question-Answer-ReactJS/index.html",
+    "main.e09c505d.css.map": "/Question-Answer-ReactJS/static/css/main.e09c505d.css.map",
+    "main.ec305de7.js.map": "/Question-Answer-ReactJS/static/js/main.ec305de7.js.map",
+    "787.79f9a009.chunk.js.map": "/Question-Answer-ReactJS/static/js/787.79f9a009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09c505d.css",
+    "static/js/main.ec305de7.js"
+  ]
+}
