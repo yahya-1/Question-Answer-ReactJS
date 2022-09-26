@@ -1,0 +1,23 @@
+.color-body {
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+
+.btn-custom {
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: #224f61;
+  padding: 0.5rem 1rem;
+}
+
+
+.btn-custom2 {
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: #224f61;
+  padding: .2rem .5rem;
+  font-size: 12px;
+}
